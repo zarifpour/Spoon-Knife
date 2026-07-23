@@ -1,4 +1,4 @@
-### Well hello there!
+# Hello, and welcome! 👋
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -15,6 +15,12 @@ After forking this repository, you can make some changes to the project, and sub
 
 To see it, open `index.html` in your browser. No build step, no dependencies.
 
+## Why fork?
+
+- Experiment freely without affecting the original project
+- Propose improvements back to the upstream maintainers
+- Use it as a starting point for your own ideas
+
 ### Try it out
 
 1. Fork this repository.
@@ -22,3 +28,7 @@ To see it, open `index.html` in your browser. No build step, no dependencies.
 3. Commit your change and open a Pull Request.
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects"](https://guides.github.com/activities/forking/). Thanks! :sparkling_heart:
+
+---
+
+**Test update** — verifying README modifications work correctly.
