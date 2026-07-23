@@ -19,6 +19,12 @@ This project welcomes contributions! Here's how to get started:
 3. Make your changes
 4. Submit a pull request with a clear description
 
+## Resources
+
+- [GitHub Forking Guide](http://guides.github.com/overviews/forking/)
+- [Pull Request Documentation](https://docs.github.com/en/pull-requests)
+- [GitHub Collaboration Guide](https://guides.github.com/features/mastering-markdown/)
+
 ## Learn More
 
 For more information on how to fork a repository, [check out our guide, "Forking Projects"](http://guides.github.com/overviews/forking/). Thanks! ✨
